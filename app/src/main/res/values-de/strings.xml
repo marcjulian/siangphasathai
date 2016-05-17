@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vowels_tab">Vokale</string>
+    <string name="consonants_tab">Konsonanten</string>
+    <string name="tones_tab">Töne</string>
+    <string name="contour_tone_falling">fallend</string>
+    <string name="contour_tone_rising">steigend</string>
+    <string name="contour_tones">Kontur Töne</string>
+    <string name="level_tone_high">hoch</string>
+    <string name="level_tone_low">tief</string>
+    <string name="level_tone_mid">mittel</string>
+    <string name="level_tones">Stufentöne</string>
+    <string name="pref_title_dark_theme">Dunkles Design</string>
+    <string name="pref_title_sound">Klang</string>
+    <string name="pref_title_tone_sound">Töne wechseln</string>
+    <string name="pref_title_appearance">Erscheinungsbild</string>
+    <string name="pref_title_acknowledgments">Credit</string>
+    <string name="pref_summary_voice_credit">sie hat der App freundlicherweise ihre Stimme geliehen</string>
+    <string name="pref_summary_dark_theme">Verändert das gesamte Erscheinungsbild der App</string>
+    <string name="settings">Einstellungen</string>
+    <string name="app_name">Siang Phasa Thai</string>
+</resources>

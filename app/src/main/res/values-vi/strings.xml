@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Siang Phasa Thai</string>
+    <string name="vowels_tab">nguyên âm</string>
+    <string name="tones_tab">âm điệu của giọng nói</string>
+    <string name="settings">cài đặt</string>
+    <string name="consonants_tab">phụ âm</string>
+    <string name="contour_tone_falling">hạ thấp xuống</string>
+    <string name="contour_tone_rising">nâng cao lên</string>
+    <string name="contour_tones">giọng điệu của lời nói</string>
+    <string name="level_tone_high">cao</string>
+    <string name="level_tone_low">thấp</string>
+    <string name="level_tone_mid">trung bình</string>
+    <string name="level_tones">cao độ của giọng nói</string>
+    <string name="pref_summary_dark_theme">thay đổi hiển thị của ứng dụng</string>
+    <string name="pref_summary_voice_credit">vui lòng cung cấp giọng nói của cô ấy cho ứng dụng</string>
+    <string name="pref_title_acknowledgments">lời cảm ơn</string>
+    <string name="pref_title_appearance">sự hiển thị</string>
+    <string name="pref_title_dark_theme">màn hình tối màu</string>
+    <string name="pref_title_sound">âm thanh</string>
+    <string name="pref_title_tone_sound">thay đổi âm thanh (nhạc chuông)</string>
+</resources>

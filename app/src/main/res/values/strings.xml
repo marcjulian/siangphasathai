@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Siang Phasa Thai</string>
+    <string name="vowels_tab">Vowels</string>
+    <string name="consonants_tab">Consonants</string>
+    <string name="i_long" translatable="false">i:</string>
+    <string name="i_short" translatable="false">i</string>
+    <string name="e_long" translatable="false">e:</string>
+    <string name="e_short" translatable="false">e</string>
+    <string name="ɛ_long" translatable="false">ɛ:</string>
+    <string name="ɛ_short" translatable="false">ɛ</string>
+    <string name="a_long" translatable="false">a:</string>
+    <string name="a_short" translatable="false">a</string>
+    <string name="ɯ_long" translatable="false">ɯ:</string>
+    <string name="ɯ_short" translatable="false">ɯ</string>
+    <string name="ɤ_long" translatable="false">ɤ:</string>
+    <string name="ɤ_short" translatable="false">ɤ</string>
+    <string name="u_long" translatable="false">u:</string>
+    <string name="u_short" translatable="false">u</string>
+    <string name="o_long" translatable="false">o:</string>
+    <string name="o_short" translatable="false">o</string>
+    <string name="ɔ_short" translatable="false">ɔ</string>
+    <string name="ɔ_long" translatable="false">ɔ:</string>
+    <string name="tones_tab">Tones</string>
+    <string name="level_tones">Level Tones</string>
+    <string name="contour_tones">Contour Tones</string>
+    <string name="vowels_combination_tab" translatable="false">Vowel Combinations</string>
+    <string name="pref_dark_theme" translatable="false">pref_dark_theme</string>
+    <string name="pref_tone_sound_default" translatable="false">pref_tone_sound_aa</string>
+    <string name="pref_tone_sound_kaa" translatable="false">pref_tone_sound_kaa</string>
+    <string name="pref_tone_sound" translatable="false">pre_tone_sound</string>
+    <string name="pref_title_voice_credit" translatable="false">Moh Suthasiny</string>
+    <string name="pref_title_acknowledgments">Acknowledgment</string>
+    <string name="pref_summary_voice_credit">kindly provided her voice for the app</string>
+    <string name="pref_title_appearance">Appearance</string>
+    <string name="pref_title_dark_theme">Dark Theme</string>
+    <string name="pref_summary_dark_theme">Changes the overall appearance of the app</string>
+    <string name="pref_title_sound">Sound</string>
+    <string name="pref_title_tone_sound">Change tone</string>
+    <string name="level_tone_high">high</string>
+    <string name="level_tone_mid">mid</string>
+    <string name="level_tone_low">low</string>
+    <string name="contour_tone_falling">falling</string>
+    <string name="contour_tone_rising">rising</string>
+    <string name="consonant_p" translatable="false">ป</string>
+    <string name="consonant_ph" translatable="false">ผ</string>
+    <string name="consonant_ph1" translatable="false">พ</string>
+    <string name="consonant_ph2" translatable="false">ภ</string>
+    <string name="consonant_b" translatable="false">บ</string>
+    <string name="consonant_m" translatable="false">ม</string>
+    <string name="consonant_w" translatable="false">ว</string>
+    <string name="consonant_f" translatable="false">ฝ</string>
+    <string name="consonant_f1" translatable="false">ฟ</string>
+    <string name="consonant_t" translatable="false">ฏ</string>
+    <string name="consonant_t1" translatable="false">ต</string>
+    <string name="consonant_th" translatable="false">ฐ</string>
+    <string name="consonant_th1" translatable="false">ฑ</string>
+    <string name="consonant_th2" translatable="false">ฒ</string>
+    <string name="consonant_th3" translatable="false">ถ</string>
+    <string name="consonant_th4" translatable="false">ท</string>
+    <string name="consonant_th5" translatable="false">ธ</string>
+    <string name="consonant_d" translatable="false">ฎ</string>
+    <string name="consonant_d1" translatable="false">ด</string>
+    <string name="consonant_r" translatable="false">ร</string>
+    <string name="consonant_l" translatable="false">ล</string>
+    <string name="consonant_l1" translatable="false">ฬ</string>
+    <string name="consonant_s" translatable="false">ซ</string>
+    <string name="consonant_s1" translatable="false">ศ</string>
+    <string name="consonant_s2" translatable="false">ษ</string>
+    <string name="consonant_s3" translatable="false">ส</string>
+    <string name="consonant_n" translatable="false">ณ</string>
+    <string name="consonant_n1" translatable="false">น</string>
+    <string name="consonant_c" translatable="false">จ</string>
+    <string name="consonant_ch" translatable="false">ฉ</string>
+    <string name="consonant_ch1" translatable="false">ช</string>
+    <string name="consonant_ch2" translatable="false">ฌ</string>
+    <string name="consonant_j" translatable="false">ญ</string>
+    <string name="consonant_j1" translatable="false">ย</string>
+    <string name="consonant_k" translatable="false">ก</string>
+    <string name="consonant_kh" translatable="false">ข</string>
+    <string name="consonant_kh1" translatable="false">ข</string>
+    <string name="consonant_kh2" translatable="false">ข</string>
+    <string name="consonant_kh3" translatable="false">ข</string>
+    <string name="consonant_ng" translatable="false">ง</string>
+    <string name="consonant_q" translatable="false">​อ</string>
+    <string name="consonant_h" translatable="false">ห</string>
+    <string name="consonant_h1" translatable="false">ฮ</string>
+    <string name="settings">Settings</string>
+    <string-array name="pref_tone_sound_entries" translatable="false">
+        <item>aa</item>
+        <item>kaa</item>
+    </string-array>
+    <string-array name="pref_tone_sound_values" translatable="false">
+        <item>pref_tone_sound_aa</item>
+        <item>pref_tone_sound_kaa</item>
+    </string-array>
+</resources>

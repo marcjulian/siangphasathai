@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">เสียงภาษาไทย</string>
+    <string name="consonants_tab">พยัญชนะ</string>
+    <string name="contour_tone_falling">ต่ำ</string>
+    <string name="contour_tone_rising">สูง</string>
+    <string name="level_tone_high">สูง</string>
+    <string name="level_tone_low">ต่ำ</string>
+    <string name="level_tone_mid">กลาง</string>
+    <string name="level_tones">ระดับเสียง</string>
+    <string name="pref_summary_dark_theme">เปลี่ยนลักษณะทั้งหมดของแอป</string>
+    <string name="pref_summary_voice_credit">ให้เสียงกับแอปนี้</string>
+    <string name="pref_title_acknowledgments">คำขอบคุณ</string>
+    <string name="pref_title_appearance">ลักษณะ</string>
+    <string name="pref_title_dark_theme">ลักษณะมืด</string>
+    <string name="pref_title_sound">เสียง</string>
+    <string name="pref_title_tone_sound">เปลี่ยนระดับเสียง</string>
+    <string name="settings">ตั้งค่า</string>
+    <string name="tones_tab">วรรณยุค</string>
+    <string name="vowels_tab">สระ</string>
+    <string name="contour_tones">Contour Tones</string>
+</resources>

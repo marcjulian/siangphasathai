@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Siang Phasa Thai</string>
+    <string name="vowels_tab">모음</string>
+    <string name="tones_tab">음색</string>
+    <string name="settings">환경</string>
+    <string name="consonants_tab">자음</string>
+    <string name="level_tone_high">높은</string>
+    <string name="level_tone_mid">중간</string>
+    <string name="level_tone_low">낮은</string>
+    <string name="level_tones">억양이 없는</string>
+    <string name="pref_summary_dark_theme">App을 전반적으로 바꾸다</string>
+    <string name="pref_summary_voice_credit">친절하게도 그녀의 목소리를 App에 제공했다</string>
+    <string name="pref_title_acknowledgments">지식</string>
+    <string name="pref_title_appearance">외모</string>
+    <string name="pref_title_dark_theme">어두운 음색</string>
+    <string name="pref_title_sound">소리</string>
+    <string name="pref_title_tone_sound">억양의 변화</string>
+    <string name="contour_tone_falling">말끝을 낮추는</string>
+    <string name="contour_tone_rising">말끝을 올리는</string>
+    <string name="contour_tones">말의 높낮이</string>
+</resources>

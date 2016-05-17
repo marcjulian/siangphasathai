@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_title_sound">
+        <ListPreference
+            android:defaultValue="@string/pref_tone_sound_default"
+            android:entries="@array/pref_tone_sound_entries"
+            android:entryValues="@array/pref_tone_sound_values"
+            android:key="@string/pref_tone_sound"
+            android:summary="%s"
+            android:title="@string/pref_title_tone_sound" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_title_appearance">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/pref_dark_theme"
+            android:summary="@string/pref_summary_dark_theme"
+            android:title="@string/pref_title_dark_theme" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_title_acknowledgments">
+        <Preference
+            android:summary="@string/pref_summary_voice_credit"
+            android:title="@string/pref_title_voice_credit">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://slate.adobe.com/cp/ShfHv/" />
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
